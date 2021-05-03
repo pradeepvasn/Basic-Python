@@ -1,2 +1,2 @@
-# Basic-Python
+# Python
 area of shapes and encryption technique.
